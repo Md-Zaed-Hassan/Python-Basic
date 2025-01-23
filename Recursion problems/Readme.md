@@ -125,3 +125,15 @@ they spend, they get a profit  of 4.5 dollar.
  f = FinalQ()
  
  f.print(array,0)
+
+## ------------------------------------------
+
+output;
+
+ 1. Investment: 25000; Profit: 0.0
+  
+ 2. Investment: 100000; Profit: 3375.0
+  
+ 3. Investment: 250000; Profit: 15375.0
+  
+ 4. Investment: 350000; Profit: 23375.0
